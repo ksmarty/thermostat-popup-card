@@ -3444,7 +3444,6 @@ class ThermostatPopupCard extends LitElement {
           justify-content: center;
           padding: 16px;
           position: relative;
-          width:500px;
         }
         #slider {
           height: 100%;
